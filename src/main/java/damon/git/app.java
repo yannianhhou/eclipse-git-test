@@ -5,5 +5,9 @@ public class app {
 	{
 		
 	}
+	public void function()
+	{
+		
+	}
 
 }
